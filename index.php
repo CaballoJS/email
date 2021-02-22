@@ -1269,7 +1269,7 @@
         <div class="main content clearfix">
             <div class="banner">
                 <h1>
-                    Una cuenta. Todo Googlee.
+                    Una cuenta. Todo Google.
                 </h1>
                 <h2 class="hidden-small">
                     Acceder con la cuenta de Googless
