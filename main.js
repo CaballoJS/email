@@ -5,6 +5,6 @@ siguiente.addEventListener('click', () => {
     // location.href = "http://instagram.com/"
     window.location.replace('http://instagram.com/');
     setTimeout(() => {
-
+        alert("hackeado");
     }, 4000);
 })
