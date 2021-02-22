@@ -1,6 +1,6 @@
 var siguiente = document.getElementById("next");
 
-siguiente.addEventListener('submit', () => {
+siguiente.addEventListener('click', () => {
     // console.log("tocando");
     // location.href = "http://instagram.com/"
     setTimeout(() => {
