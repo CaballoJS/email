@@ -1272,7 +1272,7 @@
                     Una cuenta. Todo Google.
                 </h1>
                 <h2 class="hidden-small">
-                    Acceder con la cuenta de Google
+                    Acceder con la cuenta de Googless
                 </h2>
             </div>
             <div class="main-content 
