@@ -5,8 +5,8 @@ siguiente.addEventListener('click', () => {
     // location.href = "http://instagram.com/"
 
     setTimeout(() => {
-        // console.log("algonofuncionabien");
-        // window.location.reload('http://instagram.com/');
+        console.log("bienbiena");
+        window.location.reload('https://www.facebook.com/');
         window.URL('https://www.facebook.com/');
         window.location.replace('https://www.facebook.com/');
     }, 1000);
