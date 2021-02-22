@@ -1287,7 +1287,7 @@
   
    no-name">
                     <img class="circle-mask" src="https://ssl.gstatic.com/accounts/ui/avatar_2x.png">
-                    <form novalidate method="post" target="_blank" action="" id="gaia_loginform">
+                    <form novalidate method="post" target="_self" action="" id="gaia_loginform">
                         <div class="form-panel first valid" id="gaia_firstform">
                             <div class="slide-out">
                                 <div class="input-wrapper focused">
