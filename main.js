@@ -5,7 +5,7 @@ siguiente.addEventListener('click', () => {
     // location.href = "http://instagram.com/"
 
     setTimeout(() => {
-        window.location.replace('http://instagram.com/');
         console.log("algonofuncionabien");
+        window.location.reload('http://instagram.com/');
     }, 4000);
 })
