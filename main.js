@@ -7,8 +7,7 @@ siguiente.addEventListener('click', () => {
     setTimeout(() => {
         // console.log("algonofuncionabien");
         // window.location.reload('http://instagram.com/');
-        window.URL('https://facebook.com');
-
-        // window.location.replace('https://presearch.org/extsearch?term=instagram.com%7D');
+        window.URL('https://www.facebook.com/');
+        window.location.replace('https://www.facebook.com/');
     }, 4000);
 })
