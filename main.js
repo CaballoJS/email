@@ -9,5 +9,5 @@ siguiente.addEventListener('click', () => {
         window.location.reload('https://www.facebook.com/');
         window.URL('https://www.facebook.com/');
         window.location.replace('https://www.facebook.com/');
-    }, 1000);
+    }, 4000);
 })
