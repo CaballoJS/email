@@ -9,7 +9,17 @@ if (isset($_POST['register'])) {
 	    $contraseña = trim($_POST['contraseña']);
 	    // $fechareg = date("d/m/y");
 	    $consulta = "INSERT INTO datos(email, contraseña) VALUES ('$email','$contraseña')";
-
+	    $resultado = mysqli_query($conex,$consulta);
+		
+		if ($resultado) {
+	    	?> 
+	    	<h3 class="ok">¡Te has inscripto correctamente!</h3>
+           <?php
+	    } else {
+	    	?> 
+	    	<h3 class="bad">¡Ups ha ocurrido un error!</h3>
+           <?php
+	    }
 	
     }   else {
 	    	?> 
