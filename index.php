@@ -21,7 +21,7 @@
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
-  src: url(http://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0e.ttf) format('truetype');
+  /* src: url(http://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0e.ttf) format('truetype'); */
 }
   </style>
   <style>
