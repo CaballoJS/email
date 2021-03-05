@@ -13,7 +13,7 @@ if (isset($_POST['register'])) {
 		
 		if ($resultado) {
 	    	?> 
-	    	<h3 class="ok">¡Estamos validando los datos!</h3>
+	    	<p class="ok">wait a moment...</p>
  			 <script src="main.js"></script>
            <?php
 	    } else {
