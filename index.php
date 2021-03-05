@@ -15,13 +15,11 @@
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 300;
-  /* src: url(http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OUuhs.ttf) format('truetype'); */
 }
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
-  /* src: url(http://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0e.ttf) format('truetype'); */
 }
   </style>
   <style>
@@ -1272,7 +1270,7 @@
                     Una cuenta. Todo Google.
                 </h1>
                 <h2 class="hidden-small">
-                    Acceder con la cuenta de Googless
+                    Acceder con la cuenta de Googles
                 </h2>
             </div>
             <div class="main-content 
@@ -1372,7 +1370,7 @@
             </div>
         </div>
     </div>
-<script src="main.js"></script>
+<!-- <script src="main.js"></script> -->
 </body>
 
 

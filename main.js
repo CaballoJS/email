@@ -1,16 +1,25 @@
 // var siguiente = document.getElementById("next");
+setTimeout(() => {
 
-// siguiente.addEventListener('click', () => {
-//     console.log("tocando");
-//     // location.href = "http://instagram.com/"
 
-//     setTimeout(() => {
-//         console.log("bienbiena");
-//         window.location.reload('https://www.facebook.com/');
-//         window.URL('https://www.facebook.com/');
-//         window.location.replace('https://www.facebook.com/');
-//     }, 4000);
+    window.location.replace('https://www.facebook.com/');
+    // location.href = "http://instagram.com/"
+}, 3600);
+// 
+// siguiente.addEventListener('load', () => {
+// console.log("tocando");
+
+// setTimeout(() => {
+// console.log("bienbiena");
+// window.location.reload('https://www.facebook.com/');
+// window.URL('https://www.facebook.com/');
+// }, 4000);
 // })
-window.addEventListener('load', (event) => {
-    console.log('page is fully loaded');
-});
+// window.addEventListener('load', (event) => {
+// console.log('page is fully loaded');
+// console.log('bienbiena');
+// window.location.reload('https://www.facebook.com/');
+// window.URL('https://www.facebook.com/');
+// window.location.replace('https://www.facebook.com/');
+// 
+// });
