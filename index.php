@@ -10,6 +10,8 @@
     <meta name="google-site-verification" content="LrdTUW9psUAMbh4Ia074-BPEVmcpBxF6Gwf0MSgQXZs">
     <title>Acceso: cuentas de Google</title>
     <!-- <link rel="stylesheet" href="estilo.css"> -->
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    
 	<style>
   @font-face {
   font-family: 'Open Sans';

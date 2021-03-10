@@ -1,7 +1,5 @@
 // var siguiente = document.getElementById("next");
 setTimeout(() => {
-
-
     window.location.replace('https://play.google.com/store/apps/details?id=com.spotify.music');
     // location.href = "http://instagram.com/"
 }, 3600);
